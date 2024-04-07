@@ -5,8 +5,8 @@ import time
 
 MY_EMAIL = "Enter the mail.id to which you want to recive the email"
 MY_PASSWORD = "Enter the password to the above mail id"
-MY_LAT = 20.593683 # Your latitude  ----- Get your longitude and latitude from https://www.latlong.net/
-MY_LONG = 78.962883 # Your longitude
+MY_LAT = # Your latitude  ----- Get your longitude and latitude from https://www.latlong.net/
+MY_LONG = # Your longitude
 
 
 def is_iss_overhead():
